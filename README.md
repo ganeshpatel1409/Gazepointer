@@ -1,11 +1,10 @@
-# Gazepointer
 <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python 3.8+">
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Active">
 
 <div align="center">
 
-# 👁️ **NeuroCursor**
+# 👁️ **Gazepointer**
 
 ### *Control Your Computer With Your Eyes*
 
@@ -17,9 +16,9 @@
 
 ---
 
-## 🎯 **What is NeuroCursor?**
+## 🎯 **What is Gazepointer?**
 
-NeuroCursor is a revolutionary **hands-free computer interface** powered by real-time eye tracking. Forget about mice and keyboards—just **look at your screen** and let your eyes do the talking. 
+Gazepointer is a revolutionary **hands-free computer interface** powered by real-time eye tracking. Forget about mice and keyboards—just **look at your screen** and let your eyes do the talking. 
 
 Perfect for:
 - 🦾 **Accessibility**: Users with mobility challenges
@@ -38,7 +37,7 @@ Perfect for:
 📹 Real-time webcam input → 👁️ Eye detection → 🖱️ Cursor movement
 ```
 
-Your gaze becomes the cursor. Move your eyes, watch the cursor follow in real-time.
+Your gaze becomes the cursor. Move your eyes, watch the Gazepointer follow in real-time.
 
 ### 👁️ **Smart Gesture Recognition**
 
@@ -51,7 +50,7 @@ Your gaze becomes the cursor. Move your eyes, watch the cursor follow in real-ti
 
 ---
 
-## 🚀 **Why NeuroCursor?**
+## 🚀 **Why Gazepointer?**
 
 ### ⚡ **Lightning Fast**
 - Runs smoothly on standard hardware
@@ -101,8 +100,8 @@ Your gaze becomes the cursor. Move your eyes, watch the cursor follow in real-ti
 
 ### **Step 1️⃣: Clone the Repository**
 ```bash
-git clone https://github.com/CodezenTeam/neurocursor.git
-cd neurocursor
+git clone https://github.com/CodezenTeam/gazepointer.git
+cd gazepointer
 ```
 
 ### **Step 2️⃣: Install Dependencies**
@@ -117,7 +116,7 @@ pip install opencv-python mediapipe pyautogui numpy
 > pip install -r requirements.txt
 > ```
 
-### **Step 3️⃣: Run NeuroCursor**
+### **Step 3️⃣: Run Gazepointer**
 ```bash
 python main.py
 ```
@@ -179,7 +178,7 @@ Blink to perform actions
 ## 📂 **Project Structure**
 
 ```
-neurocursor/
+gazepointer/
 ├── main.py                 # 🎯 Main program (all the magic)
 ├── requirements.txt        # 📦 Python dependencies
 ├── README.md              # 📖 You are here
@@ -316,7 +315,7 @@ GESTURE_TIMEOUT = 500
 ### **What You'll See**
 ```
 ┌────────────────────────────────────────┐
-│         NeuroCursor Window             │
+│        Gazepointer Window              │
 │  ┌──────────────────────────────────┐  │
 │  │                                  │  │
 │  │     📹 Your Webcam Feed         │  │
@@ -356,7 +355,7 @@ python -c "import cv2; cap = cv2.VideoCapture(0); print(cap.isOpened())"
 ### ❌ **Low FPS / Slow performance**
 → Close background applications  
 → Lower video resolution in `main.py`  
-→ Reduce processing complexity  
+→ Reduce processing complexity    
 
 ---
 
@@ -452,8 +451,8 @@ Just give credit where it's due! 🙏
 
 ## 📞 **Get in Touch**
 
-- 💬 **Issues & Bugs**: [GitHub Issues](https://github.com/your-username/neurocursor/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/your-username/neurocursor/discussions)
+- 💬 **Issues & Bugs**: [GitHub Issues](https://github.com/your-username/gazepointer/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/your-username/gazepointer/discussions)
 - 🐦 **Twitter**: [@CodeZenTeam](https://twitter.com/codezenteam)
 - 📧 **Email**: contact@codezen.dev
 
@@ -470,11 +469,11 @@ Just give credit where it's due! 🙏
 
 <div align="center">
 
-### ⭐ **If you find NeuroCursor useful, please star this repository!**
+### ⭐ **If you find Gazepointer useful, please star this repository!**
 
 **Made with 👁️ and ❤️ by Team CodeZen**
 
-[⬆ Back to top](#-neurocursor)
+[⬆ Back to top](#-gazepointer)
 
 </div>
 
@@ -484,7 +483,7 @@ Just give credit where it's due! 🙏
 
 ### **Start in 3 Steps**
 ```bash
-git clone https://github.com/your-username/neurocursor.git
+git clone https://github.com/your-username/gazepointer.git
 pip install -r requirements.txt
 python main.py
 ```

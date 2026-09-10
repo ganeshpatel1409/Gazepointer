@@ -417,26 +417,6 @@ We love contributions! Whether it's bug reports, feature requests, or code impro
 
 ---
 
-## 📜 **License**
-
-This project is open-source and released under the **MIT License**.
-
-```
-MIT License - See LICENSE file for details
-
-You are free to:
-✓ Use this software for any purpose
-✓ Copy, modify, and distribute
-✓ Use in commercial projects
-
-Just give credit where it's due! 🙏
-```
-
----
-
-<div align="center">
-
-### ⭐ **If you find Gazepointer useful, please star this repository!**
 
 [⬆ Back to top](#-gazepointer)
 

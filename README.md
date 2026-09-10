@@ -417,21 +417,6 @@ We love contributions! Whether it's bug reports, feature requests, or code impro
 
 ---
 
-## 👨‍💻 **About the Team**
-
-<div align="center">
-
-### **Team CodeZen**
-
-**Led by:** Farhaad Ahmad  
-**Contributors:** Eye Tracking Enthusiasts & A11y Advocates
-
-> *"Making technology accessible, one eye tracking at a time."*
-
-</div>
-
----
-
 ## 📜 **License**
 
 This project is open-source and released under the **MIT License**.
@@ -449,29 +434,9 @@ Just give credit where it's due! 🙏
 
 ---
 
-## 📞 **Get in Touch**
-
-- 💬 **Issues & Bugs**: [GitHub Issues](https://github.com/your-username/gazepointer/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/your-username/gazepointer/discussions)
-- 🐦 **Twitter**: [@CodeZenTeam](https://twitter.com/codezenteam)
-- 📧 **Email**: contact@codezen.dev
-
----
-
-## 🙏 **Acknowledgments**
-
-- 🙌 **MediaPipe** for incredible face mesh detection
-- 📚 **OpenCV** for computer vision capabilities
-- 🤖 **PyAutoGUI** for mouse automation
-- ❤️ **Our contributors** and the open-source community
-
----
-
 <div align="center">
 
 ### ⭐ **If you find Gazepointer useful, please star this repository!**
-
-**Made with 👁️ and ❤️ by Team CodeZen**
 
 [⬆ Back to top](#-gazepointer)
 
